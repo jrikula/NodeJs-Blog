@@ -196,7 +196,7 @@ img {
     flex-direction: column;
 }
 
-article-list__date {
+.article-list__date {
     font-size: var(--font-size-base);
     color: var(--gray);
     width: 260px;
